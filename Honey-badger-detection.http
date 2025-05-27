@@ -1,0 +1,6 @@
+@Honey_badger_detection_HostAddress = http://localhost:5134
+
+GET {{Honey_badger_detection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
