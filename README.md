@@ -1,5 +1,5 @@
 
-for a view as to how it works - please check the slides in the repo (pdf file)
+for a view as to how it works - please check the slides in the repo (EEE4113F pdf file)
 
 # Honey Badger Detection API
 
