@@ -1,3 +1,6 @@
+
+for a view as to how it works - please check the slides in the repo (pdf file)
+
 # Honey Badger Detection API
 
 A .NET 8 Web API that uses Microsoft Custom Vision to detect honey badgers in uploaded images. When a honey badger is detected with sufficient confidence, the image is automatically uploaded to Dropbox for storage.
