@@ -301,10 +301,6 @@ Enable detailed logging in `appsettings.Development.json`:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-[Specify your license here]
-
 ## Support
 
 For issues and questions:
